@@ -11,3 +11,4 @@ For how to receive and handle input, see [InputSample.cs](https://github.com/for
 The internal implementation can be found in [InputManagerImpl.cs](https://github.com/foriver4725/InputManager/blob/main/Assets/foriver4725/InputManager/InputManagerImpl.cs).  
 
 ## How to Download
+Download the asset package from [the latest release](https://github.com/foriver4725/InputManager/releases) and import it into your project.
